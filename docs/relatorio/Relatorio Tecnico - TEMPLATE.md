@@ -1,11 +1,11 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Aprimoramento da revenda de ingressos ......
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Ciência da Computação ......
 
 ## Participantes
 
@@ -14,8 +14,11 @@
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - Henrique Resende Lara
+> - Guilherme Tavares Nogueira de Abreu
+> - Lucas Nascimento Gomes
+> - Sofia Melo do Prado Rocha Duque
+> - Tarcísio Ferraz Justa Silva
 
 # Estrutura do Documento
 
@@ -56,71 +59,37 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+No contexto da compra e revenda de ingressos, é notável a crescente demanda por informações precisas e imparciais, especialmente diante dos desafios e incertezas enfrentados por compradores e revendedores neste mercado. A obtenção de informações atualizadas e confiáveis sobre eventos, preços, disponibilidade de ingressos e políticas de venda é fundamental para uma tomada de decisão informada.  
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+No entanto, assim como em outros setores, a disseminação de notícias falsas e a falta de transparência têm se tornado obstáculos significativos na compra e revenda de ingressos. A proliferação de sites e aplicativos de revenda, muitas vezes operando de forma obscura e sem regulamentação adequada, tem gerado preocupações sobre a autenticidade dos ingressos, preços inflacionados, fraudes e a exploração de consumidores desavisados.
+
+Além disso, a concorrência acirrada e a demanda por ingressos para eventos populares têm levado a práticas de revenda questionáveis, como o uso de bots para comprar grandes quantidades de ingressos em questão de segundos, deixando muitos compradores legítimos sem acesso aos ingressos desejados.
+
+Diante desses desafios, torna-se essencial a existência de canais de informação confiáveis e imparciais que forneçam aos compradores e revendedores de ingressos acesso a informações atualizadas e precisas, promovendo a transparência e a equidade no mercado de compra e revenda de ingressos.
+
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O objetivo geral deste trabalho é criar um portal de notícias que ofereça informações imparciais, atualizadas e confiáveis sobre o mercado de compra e revenda de ingressos, com o intuito de fornecer aos usuários ferramentas de fácil uso para tomar decisões informadas e enfrentar os desafios desse mercado.
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Como objetivos específicos, destacam-se:
+
+Fornecer informações detalhadas sobre eventos, preços, disponibilidade de ingressos e políticas de venda, de forma imparcial e transparente.
+Integrar com fontes confiáveis de informações sobre o mercado de ingressos, como organizadores de eventos, promotores, e órgãos reguladores.
+Oferecer funcionalidades que permitam aos usuários interagir por meio de comentários, compartilhamento de informações e avaliação de vendedores, promovendo a transparência e a troca de informações entre os usuários.
+
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+No mercado de compra e revenda de ingressos, os desafios enfrentados pelos compradores e revendedores são evidentes, com práticas questionáveis, falta de transparência e disseminação de informações falsas. A ausência de fontes confiáveis de informações imparciais tem impactado negativamente a experiência dos usuários nesse mercado, resultando em compras equivocadas, preços inflacionados e fraudes.
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Diante dessa realidade, a criação de um portal de notícias dedicado ao mercado de ingressos é justificada pela necessidade de fornecer aos usuários informações confiáveis, atualizadas e imparciais, que os auxiliem na tomada de decisões informadas e na superação dos desafios enfrentados nesse mercado.
+
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+O público-alvo desta solução são os indivíduos que estão envolvidos na compra e revenda de ingressos para eventos, como shows, esportes, teatro, entre outros. Isso inclui tanto os compradores, que buscam ingressos para eventos específicos, quanto os revendedores, que compram e revendem ingressos com o objetivo de obter lucro.
+Em particular, o público-alvo são pessoas com idade entre 18 e 40 anos, que têm interesse em eventos culturais e esportivos, e que utilizam plataformas online para comprar ou vender ingressos. Eles podem ter experiência prévia na compra e revenda de ingressos ou estar iniciando nesse mercado. Eles buscam informações atualizadas e confiáveis sobre os eventos, preços, disponibilidade de ingressos, tendências de mercado, estratégias de compra e venda, entre outros aspectos relacionados à compra e revenda de ingressos. Essas pessoas são ativas nas redes sociais e utilizam a internet como principal fonte de informações e transações para a compra e revenda de ingressos
  
 # Especificações do Projeto
 
