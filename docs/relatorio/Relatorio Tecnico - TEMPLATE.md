@@ -130,7 +130,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Rafael Silva | ingressos confiáveis e de preço justo     | não cair em golpes perdendo seu dinheiro           |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Rafael Silva      | Plataforma para achar tickets de eventos que já foram esgotados             | para poder comprar shows e eventos de artistas em que não tem acesso aos ingressos|
+|Marina Castro| menor custo na compra de ingressos| reduzir os gastos de sua família        |
+|Marina Castro| encontrar uma maneira de reunir festividades que condizem com seu gosto peculiar  | diminuir sua dificuldade em encontrar eventos do seu estilo      |
+|Teresa Costa | encontrar eventos de seu interesse e que reúna as pessoas | Para se conectar com as pessoas com que se relaciona.  |
+|Teresa Costa | achar eventos perto de sua localidade  | para sua maior acessibilidade na hora de se lo   |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
