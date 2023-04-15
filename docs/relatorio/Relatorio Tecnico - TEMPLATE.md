@@ -1,24 +1,16 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`Aprimoramento da revenda de ingressos`  
 
-......  Aprimoramento da revenda de ingressos ......
-
-`CURSO` 
-
-......  Ciência da Computação ......
+`Ciência da Computação` 
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Henrique Resende Lara
-> - Guilherme Tavares Nogueira de Abreu
-> - Lucas Nascimento Gomes
-> - Sofia Melo do Prado Rocha Duque
-> - Tarcísio Ferraz Justa Silva
+ Os membros do grupo são: 
+- Henrique Resende Lara
+- Guilherme Tavares Nogueira de Abreu
+- Lucas Nascimento Gomes
+- Sofia Melo do Prado Rocha Duque
+- Tarcísio Ferraz Justa Silva
 
 # Estrutura do Documento
 
