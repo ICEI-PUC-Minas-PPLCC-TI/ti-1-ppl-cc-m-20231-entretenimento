@@ -86,11 +86,7 @@ Em particular, o público-alvo são pessoas com idade entre 18 e 40 anos, que t�
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Por meio de respostas obtidas com as personas e histórias de usuários abaixo, conseguimos identificar os principais impasses a serem solucionados, bem como as aplicações posteriores que a plataforma virá a oferecer.
 
 ## Personas e Proposta de Valor
 
