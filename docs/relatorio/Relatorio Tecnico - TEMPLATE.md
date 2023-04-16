@@ -92,29 +92,8 @@ Em particular, o público-alvo são pessoas com idade entre 18 e 40 anos, que t�
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
 > realizar a especificações do projeto
 
-## Personas, Empatia e Proposta de Valor
+## Personas e Proposta de Valor
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-
-> Relacione as personas identificadas no seu projeto, os respectivos mapas de empatia e 
-> mapas da proposta de valor. Lembre-se que você deve ser enumerar e descrever precisamente 
-> e de forma personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> - [Canvas da Proposta de Valor](https://analistamodelosdenegocios.com.br/canvas-da-proposta-de-valor/)
-> 
-> 
-> **Exemplo de Persona**
 ![image](https://user-images.githubusercontent.com/130320809/232327818-0b952635-2164-4380-8dca-2b55ab994834.png)
 
 ![image](https://user-images.githubusercontent.com/130320809/232334211-3b0b958d-3ad7-4ae9-bd61-6a0c7da4a87a.png)
@@ -202,22 +181,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+![image](https://user-images.githubusercontent.com/130320809/232334458-530c1f34-57c8-4e21-8e71-014985790e09.png)
+O cabeçalho trará a opção de entrar em outras 5 páginas em ordem:PÁGINA DE POSTS DE EVENTOS,POST DE TICKET,CADASTRO DE TICKET,CADASTRO DE EVENTO,PERFIL.
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+![image](https://user-images.githubusercontent.com/130320809/232334534-431d2ca4-cceb-41bd-9526-ad990d55dbf6.png)
+Nessa página será mostrado os eventos que foram cadastrados no nosso site através de uma imagem e uma descrição do evento além de um carrossel com imagens em destaques.Ao clicar em um evento você será levado a página  PÁGINA DE AVALIAÇÃO DE EVENTOS.  
 
 
 # Metodologia
