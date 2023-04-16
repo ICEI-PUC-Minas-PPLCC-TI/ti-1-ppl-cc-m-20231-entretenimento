@@ -205,32 +205,14 @@ Ao entrar na página de cadastrar um evento você poderá fornecer as seguintes 
 
 # Metodologia
 
-......  
 De maneira geral utilizamos o WhatsApp como meio de comunicação para informações gerais, e estabelecimento de datas e horários para próximas reuniões, como também para cumprir prazos de tarefas. O processo de design thinking foi feito através da plataforma miro por todo o grupo ao longo de nossos encontros pelo discord. Além disso, utilizamos o Discord como plataforma para a colaboração na elaboração das partes essenciais do projeto, tais como o wireframe e a documentação do projeto.
- ......
-
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ## Divisão de Papéis
 
 | Integrante    | Função        |
 | ------------- | ------------- |
-| Guilherme Tavares Nogueira de Abreu |  Scrum Master, design thinking,  documentação|
-| Henrique Resende Lara| design thinking, github |
+| Guilherme Tavares Nogueira de Abreu | Scrum Master, design thinking |
+| Henrique Resende Lara| design thinking, github, documentação |
 | Lucas Nascimento Gomes | documentação, design thinking |
 | Sofia Melo do Prado Rocha Duque | powerpoint, design thinking, documentação |
 | Tarcísio Ferraz Justa Silva |  design thinking, documentação, github |
@@ -252,39 +234,7 @@ De maneira geral utilizamos o WhatsApp como meio de comunicação para informaç
 
 ## Controle de Versão
 
-......  A configuração do projeto inicia-se com a criação de um repositório no github. Uma vez criado, é possível criar branches para trabalhar em diferentes recursos ou tarefas em paralelo.  A gerência de commits é feita para registrar as alterações realizadas em um branch. (Um branch, em Git, é uma cópia do código-fonte do projeto) Um commit é uma imagem instantânea do estado do código em um determinado momento. A gerência de merges é importante para combinar alterações de diferentes branches em uma única versão do código. Já as tags são marcadores que indicam um ponto específico na história do código. Elas são úteis para marcar lançamentos importantes ou pontos de referência no desenvolvimento do projeto. A gerência de issues é realizada por meio da criação de problemas ou bugs no sistema de rastreamento de problemas.
-......
-
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
-> A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
-> 
-> O projeto segue a seguinte convenção para o nome de branchs:
-> 
-> - `master`: versão estável já testada do software
-> - `unstable`: versão já testada do software, porém instável
-> - `testing`: versão em testes do software
-> - `dev`: versão de desenvolvimento do software
-> 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
-> 
-> - `bugfix`: uma funcionalidade encontra-se com problemas
-> - `enhancement`: uma funcionalidade precisa ser melhorada
-> - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
+A configuração do projeto inicia-se com a criação de um repositório no github. Uma vez criado, é possível criar branches para trabalhar em diferentes recursos ou tarefas em paralelo.  A gerência de commits é feita para registrar as alterações realizadas em um branch. (Um branch, em Git, é uma cópia do código-fonte do projeto) Um commit é uma imagem instantânea do estado do código em um determinado momento. A gerência de merges é importante para combinar alterações de diferentes branches em uma única versão do código. Já as tags são marcadores que indicam um ponto específico na história do código. Elas são úteis para marcar lançamentos importantes ou pontos de referência no desenvolvimento do projeto. A gerência de issues é realizada por meio da criação de problemas ou bugs no sistema de rastreamento de problemas.
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
