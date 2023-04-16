@@ -90,7 +90,7 @@ Por meio de respostas obtidas com as personas e histórias de usuários abaixo, 
 
 ## Personas e Proposta de Valor
 
-![image](https://user-images.githubusercontent.com/130320809/232338276-71439b12-3f91-4b4a-a283-debf7d655a86.png)
+![image](https://user-images.githubusercontent.com/130320809/232338388-c87ed8e2-7b20-4ca6-9376-ce632c9d3a01.png)
 
 ![image](https://user-images.githubusercontent.com/130320809/232334211-3b0b958d-3ad7-4ae9-bd61-6a0c7da4a87a.png)
 
