@@ -205,7 +205,9 @@ Ao entrar na página de cadastrar um evento você poderá fornecer as seguintes 
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  
+De maneira geral utilizamos o WhatsApp como meio de comunicação para informações gerais, e estabelecimento de datas e horários para próximas reuniões, como também para cumprir prazos de tarefas. O processo de design thinking foi feito através da plataforma miro por todo o grupo ao longo de nossos encontros pelo discord. Além disso, utilizamos o Discord como plataforma para a colaboração na elaboração das partes essenciais do projeto, tais como o wireframe e a documentação do projeto.
+ ......
 
 > Nesta parte do documento, você deve apresentar a metodologia 
 > adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
@@ -227,11 +229,11 @@ Ao entrar na página de cadastrar um evento você poderá fornecer as seguintes 
 
 | Integrante    | Função        |
 | ------------- | ------------- |
-| Hugo        | Design, redação e Scrum Master  |
-| Maria        | Redação  |
-| Roberto  | Design  |
-| Amanda        | Design  |
-| João        | Redação  |
+| Guilherme Tavares Nogueira de Abreu |  Scrum Master, design thinking,  documentação|
+| Henrique Resende Lara| design thinking, github |
+| Lucas Nascimento Gomes | documentação, design thinking |
+| Sofia Melo do Prado Rocha Duque | powerpoint, design thinking, documentação |
+| Tarcísio Ferraz Justa Silva |  design thinking, documentação, github |
 >
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
@@ -250,7 +252,8 @@ Ao entrar na página de cadastrar um evento você poderá fornecer as seguintes 
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  A configuração do projeto inicia-se com a criação de um repositório no github. Uma vez criado, é possível criar branches para trabalhar em diferentes recursos ou tarefas em paralelo.  A gerência de commits é feita para registrar as alterações realizadas em um branch. (Um branch, em Git, é uma cópia do código-fonte do projeto) Um commit é uma imagem instantânea do estado do código em um determinado momento. A gerência de merges é importante para combinar alterações de diferentes branches em uma única versão do código. Já as tags são marcadores que indicam um ponto específico na história do código. Elas são úteis para marcar lançamentos importantes ou pontos de referência no desenvolvimento do projeto. A gerência de issues é realizada por meio da criação de problemas ou bugs no sistema de rastreamento de problemas.
+......
 
 > Discuta como a configuração do projeto foi feita na ferramenta de
 > versionamento escolhida. Exponha como a gerência de tags, merges,
