@@ -181,10 +181,16 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
-![image](https://user-images.githubusercontent.com/130320809/232334458-530c1f34-57c8-4e21-8e71-014985790e09.png)
+# Cabeçalho
+
+![image](https://user-images.githubusercontent.com/130320809/232334661-5e9136e4-055a-402e-b9fd-9304551feb32.png)
+
 O cabeçalho trará a opção de entrar em outras 5 páginas em ordem:PÁGINA DE POSTS DE EVENTOS,POST DE TICKET,CADASTRO DE TICKET,CADASTRO DE EVENTO,PERFIL.
 
-![image](https://user-images.githubusercontent.com/130320809/232334534-431d2ca4-cceb-41bd-9526-ad990d55dbf6.png)
+# Página de posts de eventos
+
+![image](https://user-images.githubusercontent.com/130320809/232334619-47742d68-2af3-4abb-9682-fe6b83c3a33b.png)
+
 Nessa página será mostrado os eventos que foram cadastrados no nosso site através de uma imagem e uma descrição do evento além de um carrossel com imagens em destaques.Ao clicar em um evento você será levado a página  PÁGINA DE AVALIAÇÃO DE EVENTOS.  
 
 
