@@ -49,8 +49,6 @@
 
 # Introdução
 
-## Problema
-
 No contexto da compra e revenda de ingressos, é notável a crescente demanda por informações precisas e imparciais, especialmente diante dos desafios e incertezas enfrentados por compradores e revendedores neste mercado. A obtenção de informações atualizadas e confiáveis sobre eventos, preços, disponibilidade de ingressos e políticas de venda é fundamental para uma tomada de decisão informada.  
 
 No entanto, assim como em outros setores, a disseminação de notícias falsas e a falta de transparência têm se tornado obstáculos significativos na compra e revenda de ingressos. A proliferação de sites e aplicativos de revenda, muitas vezes operando de forma obscura e sem regulamentação adequada, tem gerado preocupações sobre a autenticidade dos ingressos, preços inflacionados, fraudes e a exploração de consumidores desavisados.
@@ -59,6 +57,9 @@ Além disso, a concorrência acirrada e a demanda por ingressos para eventos pop
 
 Diante desses desafios, torna-se essencial a existência de canais de informação confiáveis e imparciais que forneçam aos compradores e revendedores de ingressos acesso a informações atualizadas e precisas, promovendo a transparência e a equidade no mercado de compra e revenda de ingressos.
 
+## Problema
+
+De acordo com o que está exposto na introdução, o problema que procuramos solucionar são falta de transparência no mercado de compra e revenda de ingressos, a proliferação de sites e aplicativos de revenda sem regulamentação adequada, a autenticidade dos ingressos, preços inflacionados, fraudes e a exploração de consumidores desavisados. 
 
 ## Objetivos
 
