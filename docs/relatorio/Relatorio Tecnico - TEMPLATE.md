@@ -115,7 +115,8 @@ Em particular, o público-alvo são pessoas com idade entre 18 e 40 anos, que t�
 > 
 > 
 > **Exemplo de Persona**
-> 
+> ![image](https://user-images.githubusercontent.com/130320809/232327818-0b952635-2164-4380-8dca-2b55ab994834.png)
+
 > ![Exemplo de Persona](images/persona.png)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
