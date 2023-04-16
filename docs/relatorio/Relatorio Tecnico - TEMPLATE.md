@@ -216,11 +216,6 @@ De maneira geral utilizamos o WhatsApp como meio de comunicação para informaç
 | Lucas Nascimento Gomes | documentação, design thinking |
 | Sofia Melo do Prado Rocha Duque | powerpoint, design thinking, documentação |
 | Tarcísio Ferraz Justa Silva |  design thinking, documentação |
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
 
 ## Ferramentas
 
