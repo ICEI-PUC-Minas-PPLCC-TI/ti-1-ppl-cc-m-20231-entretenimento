@@ -162,22 +162,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
-
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
-> **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/userflow.jpg)
-
+![image](https://user-images.githubusercontent.com/130320809/232335242-75ee22be-6dec-42b8-a92e-3a6e85dc0f5d.png)
 
 ## Wireframes
 
@@ -199,6 +184,35 @@ Nessa página será mostrado os eventos que foram cadastrados no nosso site atra
 
 Nessa página serão cadastrados as informações do ticket como a quantidade que será vendida o evento e o local do evento e checar a validade do QR code. 
 
+### Página de avaliação de eventos
+
+![image](https://user-images.githubusercontent.com/130320809/232334882-f86551d1-979b-4daf-b951-49d307f20eb8.png)
+
+Ao clicar em um evento uma página com um carrossel com as imagens do evento será fornecida juntamente com sua avaliação e oportunidade de avaliar o evento.Juntamente com uma página de comentários onde outros comentários podem ser mostrados e adicionados.Ao clicar em ingressos você será levado a página POST DE TICKET.
+
+### Post de tickets
+
+![image](https://user-images.githubusercontent.com/130320809/232334943-9b565857-eb4c-4384-9a43-adcac50a674c.png)
+
+Nessa página será mostrada uma lista com todos os tickets que foram cadastrados anteriormente no site. ao clicar em um ticket você será levado a página COMPRA DE TICKET
+
+### Perfil
+
+![image](https://user-images.githubusercontent.com/130320809/232335000-a260f35f-c29a-4b4a-a338-aace91468c66.png)
+
+A página de perfil mostrará uma foto de perfil e uma foto escolhida pelo usuário um calendário com as datas de validação dos tickets e acesso a uma carteira de tickets 
+
+### Login e cadastro
+
+![image](https://user-images.githubusercontent.com/130320809/232335077-bb023b80-f66f-4e96-be10-bf61b057cb04.png)
+
+A página inicial do site ao entrar nela você terá a opção de logar ou se cadastrar clicando no botão de cadastro, na página de cadastro você pode criar sua conta com as seguintes informações:email,login,senha e o tipo de conta que podem ser normal ou de revendedor. 
+
+### Cadastro de evento
+
+![image](https://user-images.githubusercontent.com/130320809/232335143-107b9aa0-53fb-4c64-a1de-b4bd2ef1db63.png)
+
+Ao entrar na página de cadastrar um evento você poderá fornecer as seguintes informações: nome, local, imagens e uma breve descrição do evento. Ao clicar em postar vc será levado à PÁGINA DE AVALIAÇÃO DE EVENTOS com  as informações cadastradas.
 
 # Metodologia
 
