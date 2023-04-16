@@ -253,29 +253,6 @@ Ao entrar na página de cadastrar um evento você poderá fornecer as seguintes 
 |Protótipo Interativo | Figma | https://www.figma.com/file/4rDtleiNgVzUK7wOKfE82H/WIREFRAMES?node-id=0-1&t=xHmltHmbzUoRnnGK-0 | 
 |Hospedagem temporária de documentos | Google Drive | https://docs.google.com/document/d/1JUIOHRdbjs2d59r4ngUYuaxaczFcojqCgKUmMU4-bUU/edit?usp=sharing | 
 
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
-
 ## Controle de Versão
 
 ......  COLOQUE AQUI O SEU TEXTO ......
