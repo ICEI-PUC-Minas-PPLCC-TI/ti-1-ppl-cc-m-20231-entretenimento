@@ -181,17 +181,23 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
-# Cabeçalho
+### Cabeçalho
 
 ![image](https://user-images.githubusercontent.com/130320809/232334661-5e9136e4-055a-402e-b9fd-9304551feb32.png)
 
 O cabeçalho trará a opção de entrar em outras 5 páginas em ordem:PÁGINA DE POSTS DE EVENTOS,POST DE TICKET,CADASTRO DE TICKET,CADASTRO DE EVENTO,PERFIL.
 
-# Página de posts de eventos
+### Página de posts de eventos
 
 ![image](https://user-images.githubusercontent.com/130320809/232334619-47742d68-2af3-4abb-9682-fe6b83c3a33b.png)
 
-Nessa página será mostrado os eventos que foram cadastrados no nosso site através de uma imagem e uma descrição do evento além de um carrossel com imagens em destaques.Ao clicar em um evento você será levado a página  PÁGINA DE AVALIAÇÃO DE EVENTOS.  
+Nessa página será mostrado os eventos que foram cadastrados no nosso site através de uma imagem e uma descrição do evento além de um carrossel com imagens em destaques.Ao clicar em um evento você será levado à PÁGINA DE AVALIAÇÃO DE EVENTOS.
+
+### Cadastro de Ticket
+
+![image](https://user-images.githubusercontent.com/130320809/232334811-b4023ccf-5119-494a-81b5-abc17056056d.png)
+
+Nessa página serão cadastrados as informações do ticket como a quantidade que será vendida o evento e o local do evento e checar a validade do QR code. 
 
 
 # Metodologia
