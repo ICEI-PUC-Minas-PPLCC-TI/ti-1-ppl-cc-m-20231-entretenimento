@@ -247,10 +247,11 @@ Ao entrar na página de cadastrar um evento você poderá fornecer as seguintes 
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro | https://miro.com/app/board/uXjVMYDTrpA=/ | 
 |Repositório de código | GitHub | https://github.com/XXXXXXX | 
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Protótipo Interativo | Figma | https://www.figma.com/file/4rDtleiNgVzUK7wOKfE82H/WIREFRAMES?node-id=0-1&t=xHmltHmbzUoRnnGK-0 | 
+|Hospedagem temporária de documentos | Google Drive | https://docs.google.com/document/d/1JUIOHRdbjs2d59r4ngUYuaxaczFcojqCgKUmMU4-bUU/edit?usp=sharing | 
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
