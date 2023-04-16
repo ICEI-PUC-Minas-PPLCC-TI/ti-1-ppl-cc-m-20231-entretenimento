@@ -90,7 +90,7 @@ Por meio de respostas obtidas com as personas e histórias de usuários abaixo, 
 
 ## Personas e Proposta de Valor
 
-![image](https://user-images.githubusercontent.com/130320809/232327818-0b952635-2164-4380-8dca-2b55ab994834.png)
+![image](https://user-images.githubusercontent.com/130320809/232338276-71439b12-3f91-4b4a-a283-debf7d655a86.png)
 
 ![image](https://user-images.githubusercontent.com/130320809/232334211-3b0b958d-3ad7-4ae9-bd61-6a0c7da4a87a.png)
 
@@ -232,9 +232,13 @@ Ao entrar na página de cadastrar um evento você poderá fornecer as seguintes 
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
+| Integrante    | Função        |
+| ------------- | ------------- |
+| Hugo        | Design, redação e Scrum Master  |
+| Maria        | Redação  |
+| Roberto  | Design  |
+| Amanda        | Design  |
+| João        | Redação  |
 >
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
@@ -242,8 +246,6 @@ Ao entrar na página de cadastrar um evento você poderá fornecer as seguintes 
 
 
 ## Ferramentas
-
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
