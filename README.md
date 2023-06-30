@@ -7,7 +7,7 @@ Uma plataforma pratica facil e acessível de venda e revenda de ingressos e divu
 * Tarcísio Ferraz Juste Silva
 * Guilherme Tavares Nogueira de Abreu
 * Henrique Resende Lara
-* Nome completo do aluno 4
+* Sofia Melo do Prado Rocha Duque
 
 ## Professores responsáveis
 
