@@ -236,12 +236,11 @@ A configuração do projeto inicia-se com a criação de um repositório no gith
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
+..
 ## Tecnologias Utilizadas
 
 ......  COLOQUE AQUI O SEU TEXTO ......
-
+java html css qrcodeapi
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as
 > tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
@@ -249,7 +248,9 @@ A configuração do projeto inicia-se com a criação de um repositório no gith
 > Apresente também uma figura explicando como as tecnologias estão
 > relacionadas ou como uma interação do usuário com o sistema vai ser
 > conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
+![image](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20231-entretenimento/assets/104558625/e8a1b0c7-b0bc-4d7a-b962-a287b0b5da06)
+
+
 > Inclua os diagramas de User Flow, esboços criados pelo grupo
 > (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
 > item textualmente comentando e complementando o que está apresentado
