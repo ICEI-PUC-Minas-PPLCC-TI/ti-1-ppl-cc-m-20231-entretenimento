@@ -248,7 +248,8 @@ java html css qrcodeapi
 > Apresente também uma figura explicando como as tecnologias estão
 > relacionadas ou como uma interação do usuário com o sistema vai ser
 > conduzida, por onde ela passa até retornar uma resposta ao usuário.
-![image](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20231-entretenimento/assets/104558625/e8a1b0c7-b0bc-4d7a-b962-a287b0b5da06)
+
+![image](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20231-entretenimento/assets/104558625/82d71f44-3748-48db-8622-994882980c89)
 
 
 > Inclua os diagramas de User Flow, esboços criados pelo grupo
