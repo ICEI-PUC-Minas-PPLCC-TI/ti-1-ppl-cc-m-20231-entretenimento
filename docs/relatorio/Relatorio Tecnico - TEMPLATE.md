@@ -242,7 +242,9 @@ HTML, CSS e JavaScript, que são três tecnologias fundamentais para o desenvolv
 
 Agora explicaremos como a interação do usuário com nosso sistema funcionará:
 
-![image](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20231-entretenimento/assets/104558625/82d71f44-3748-48db-8622-994882980c89)
+
+![image](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20231-entretenimento/assets/104558625/87c25208-b5dd-4c52-9660-16bf5dc1512c)
+
 
 > Bem, o Javascript está relacionada a toda ação executada pelo usuário. Primeiro aparece a página de cadastro, e depois de efetuá-lo iremos ao login, o qual abrirá as portas para o restante do site.
 
