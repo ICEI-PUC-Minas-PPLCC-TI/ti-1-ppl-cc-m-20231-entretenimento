@@ -241,6 +241,13 @@ A configuração do projeto inicia-se com a criação de um repositório no gith
 HTML, CSS e JavaScript, que são três tecnologias fundamentais para o desenvolvimento de páginas web interativas, foram utilizadas, além de uma API para gerar QR Codes.
 
 Agora explicaremos como a interação do usuário com nosso sistema funcionará:
+
+![image](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20231-entretenimento/assets/104558625/82d71f44-3748-48db-8622-994882980c89)
+
+> Bem, o Javascript está relacionada a toda ação excutada pelo usuário. Primeiro aparece a página de cadastro, e depois de efetuá-lo iremos ao login, o qual abrirá as portas para o restante do site.
+> O usuário se depara com os eventos já disponíveis, criados anteriormente, e pode procurar, por meio da barra de busca, seu evento desejado. Assim, ao clicar em algum desses eventos, aparecerá uma página de detalhes com opção de compra. Colocando as informações de pagamento e finalizando, o QR Code do show escolhido é gerado para o cliente.
+> Mas não é só isso, já que também é possível, para o usuário, acessar páginas para vender ingressos que desejar. Para isso, pode-se criar um evento, ou seja, um evento próprio que um vendedor está organizando, ou selecionar eventos já existentes e depois utilizar a parte de criação de tickets para adicionar quantos ingressos serão vendidos e o preço.
+
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as
 > tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
@@ -248,8 +255,6 @@ Agora explicaremos como a interação do usuário com nosso sistema funcionará:
 > Apresente também uma figura explicando como as tecnologias estão
 > relacionadas ou como uma interação do usuário com o sistema vai ser
 > conduzida, por onde ela passa até retornar uma resposta ao usuário.
-
-![image](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20231-entretenimento/assets/104558625/82d71f44-3748-48db-8622-994882980c89)
 
 
 > Inclua os diagramas de User Flow, esboços criados pelo grupo
