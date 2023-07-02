@@ -239,6 +239,8 @@ A configuração do projeto inicia-se com a criação de um repositório no gith
 ## Tecnologias Utilizadas
 
 HTML, CSS e JavaScript, que são três tecnologias fundamentais para o desenvolvimento de páginas web interativas, foram utilizadas, além de uma API para gerar QR Codes.
+
+Agora explicaremos como a interação do usuário com nosso sistema funcionará:
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as
 > tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
