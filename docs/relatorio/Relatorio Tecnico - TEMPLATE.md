@@ -236,11 +236,9 @@ A configuração do projeto inicia-se com a criação de um repositório no gith
 
 # Projeto da Solução
 
-..
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
-java html css qrcodeapio
+HTML, CSS e JavaScript, que são três tecnologias fundamentais para o desenvolvimento de páginas web interativas, foram utilizadas, além de uma API para gerar QR Codes.
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as
 > tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
