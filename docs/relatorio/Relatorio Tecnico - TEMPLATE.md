@@ -231,8 +231,6 @@ De maneira geral utilizamos o WhatsApp como meio de comunicação para informaç
 
 A configuração do projeto inicia-se com a criação de um repositório no github. Uma vez criado, é possível criar branches para trabalhar em diferentes recursos ou tarefas em paralelo.  A gerência de commits é feita para registrar as alterações realizadas em um branch. (Um branch, em Git, é uma cópia do código-fonte do projeto) Um commit é uma imagem instantânea do estado do código em um determinado momento. A gerência de merges é importante para combinar alterações de diferentes branches em uma única versão do código. Já as tags são marcadores que indicam um ponto específico na história do código. Elas são úteis para marcar lançamentos importantes ou pontos de referência no desenvolvimento do projeto. A gerência de issues é realizada por meio da criação de problemas ou bugs no sistema de rastreamento de problemas.
 
-# **############## SPRINT 1 ACABA AQUI #############**
-
 
 # Projeto da Solução
 
