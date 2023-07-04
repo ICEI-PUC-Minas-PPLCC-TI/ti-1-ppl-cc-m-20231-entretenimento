@@ -257,11 +257,6 @@ Agora explicaremos como a interação do usuário com nosso sistema funcionará:
 > nas imagens.
 
 ## Arquitetura da solução
-
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
-
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
 > 
 > **Exemplo do diagrama de Arquitetura**:
 > 
@@ -275,15 +270,11 @@ Agora explicaremos como a interação do usuário com nosso sistema funcionará:
 > 
 > API - integração com API para gerar QR Codes
 
+> Utilização do Github para hospedar nosso site
+
 
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> Utilizamos principalmente nossa visão jovem do assunto, principalmente de um dos integrantes que trabalha diretamente com venda de ingressos.
 
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
