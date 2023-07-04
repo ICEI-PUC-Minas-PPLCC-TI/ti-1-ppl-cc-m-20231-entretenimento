@@ -268,8 +268,11 @@ Agora explicaremos como a interação do usuário com nosso sistema funcionará:
 > ![image](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20231-entretenimento/assets/130320809/b50bc1b4-21bf-4b53-a33d-3c266ed3c5a1)
 
 > Navegador: Interface básica
+> 
 > Páginas WEB - conjunto dos arquivos HTML, CSS e Javascript, com imagens
+> 
 > Local Storage - armazenamento mantido no navegador
+> 
 > API - integração com API para gerar QR Codes
 
 
