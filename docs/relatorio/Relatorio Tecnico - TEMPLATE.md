@@ -258,8 +258,6 @@ Agora explicaremos como a interação do usuário com nosso sistema funcionará:
 
 ## Arquitetura da solução
 > 
-> **Exemplo do diagrama de Arquitetura**:
-> 
 > ![image](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20231-entretenimento/assets/130320809/b50bc1b4-21bf-4b53-a33d-3c266ed3c5a1)
 
 > Navegador: Interface básica
